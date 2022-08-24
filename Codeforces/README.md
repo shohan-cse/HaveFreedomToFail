@@ -7,7 +7,7 @@ I use Sublime Text for writing code and use command prompt for the result.
 # Profiles
 📌Codeforces: https://codeforces.com/profile/HaveFreedomToFail
 
-📌Beecrowd: https://www.beecrowd.com.br/judge/en/profile/601975
+📌HackerRank: https://www.hackerrank.com/HaveFreedom2Fail
 
 ## If you like my repository 
 Don't forget to (Follow) and press the (Star) button. If you want to save this repository in your profile, then click on the (Fork) button from the top right side.
